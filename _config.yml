@@ -8,14 +8,13 @@ subtitle: From Zero to Hero
 description: Everything Programing
 author: John Miroki
 language: default
-language: en
 timezone: ''
 
 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://john.how
+url: https://john.how
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -110,3 +109,7 @@ suka_theme:
     enable: false
     line_number: true
     theme: default
+  uiux:
+    slogan: 
+      - From Zero to Hero
+      - Everything Programing
